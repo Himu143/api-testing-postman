@@ -1,0 +1,34 @@
+{
+  "info": {
+    "_postman_id": "b21a87b3-2ca8-4bfe-9e68-385bf33a80ab",
+    "name": "iPICS",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "19869486"
+  },
+  "item": [
+    {
+      "name": "Documents",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://beta-api.ipics.life/admin/api/main/documents/",
+          "protocol": "http",
+          "host": [
+            "beta-api",
+            "ipics",
+            "life"
+          ],
+          "path": [
+            "admin",
+            "api",
+            "main",
+            "documents",
+            ""
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
